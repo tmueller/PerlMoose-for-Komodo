@@ -1,0 +1,11 @@
+language PerlMoose
+
+family markup
+#sublanguage HTML #not used
+initial IN_M_DEFAULT
+
+# Need to get into a state with keywords -- use CSL
+state IN_M_DEFAULT:
+/./ : paint(upto, SSL_DEFAULT), redo => IN_SSL_DEFAULT
+
+include "perlmooselex.udl"

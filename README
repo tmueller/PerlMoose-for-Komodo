@@ -1,0 +1,5 @@
+Version 1.0.5
+==============
+
+* added Keywords for Moose
+* use #STARTREGION and #ENDREGION to make collapsable regions in Komodo
