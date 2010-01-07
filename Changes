@@ -1,0 +1,16 @@
+VERSION 1.0.6
+==============
+* TODO: add Moose Templates
+
+VERSION 1.0.5
+==============
+* added Keywords for Moose
+* use #STARTREGION and #ENDREGION to make collapsable regions in Komodo
+* added Test
+* moved changelog from README to here
+
+earlier Versions
+=================
+* looked into compiling Komodo-extensions
+* stole complete Perl UDL-File, since adding the Moose Keywords to a file and
+  compining the Perl UDL didn't work

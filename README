@@ -1,5 +1,7 @@
-Version 1.0.5
+SYNOPSIS
 ==============
+This a Komodo Extension, which adds a new language in Komodo’s languagelist.
+Choose "PerlMoose" whenever you work with Moosefied packages.
 
-* added Keywords for Moose
-* use #STARTREGION and #ENDREGION to make collapsable regions in Komodo
+The xpi is already compiled, but I don’t know where to upload it to.
+As soon as I find some webspace, I’ll upload it.
